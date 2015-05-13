@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_1" android:title="@string/action_1"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_2" android:title="@string/action_2"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_3" android:title="@string/action_3"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_4" android:title="@string/action_4"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_5" android:title="@string/action_5"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_6" android:title="@string/action_6"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_7" android:title="@string/action_7"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_8" android:title="@string/action_8"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_9" android:title="@string/action_9"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

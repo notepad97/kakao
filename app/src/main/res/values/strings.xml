@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">카톡 게임 런처</string>
+    <string name="hello_world">COPYRIGHT© 2015 BY Diverse</string>
+    <string name="action_1">계정1 삭제</string>
+    <string name="action_2">계정2 삭제</string>
+    <string name="action_3">계정3 삭제</string>
+    <string name="action_4">계정4 삭제</string>
+    <string name="action_5">계정5 삭제</string>
+    <string name="action_6">계정6 삭제</string>
+    <string name="action_7">계정7 삭제</string>
+    <string name="action_8">계정8 삭제</string>
+    <string name="action_9">계정9 삭제</string>
+    <string name="buy">프로버전 구매</string>
+
+    <string name="title_activity_login">로그인</string>
+
+    <string name="button_yes">실행</string>
+    <string name="button_no">취소</string>
+
+    <string name="alert_title_question">약관이 뜨는 경우 2번정도 게임종료 후 재실행 해 주세요.</string>
+    <string name="alert_msg_delete">바로 로그인 되지 않고 약관이 뜨는 경우 게임종료 후 재실행해 주세요.</string>
+</resources>
